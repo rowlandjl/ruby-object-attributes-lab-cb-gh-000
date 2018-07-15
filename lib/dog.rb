@@ -4,11 +4,12 @@ class Dog
   end
 
   def name
-  end 
+  end
 
   def breed=(name)
-  end 
+  end
 
-  def breed 
-  end 
+  def breed
+  end
+  
 end
